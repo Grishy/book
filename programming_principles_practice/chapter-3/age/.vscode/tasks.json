@@ -10,9 +10,9 @@
             "args": [
                 "-std=c++17",
                 "-stdlib=libc++",
-                "input.cpp",
+                "main.cpp",
                 "-o",
-                "input.out",
+                "main.out",
                 "--debug"
             ],
             "group": {
