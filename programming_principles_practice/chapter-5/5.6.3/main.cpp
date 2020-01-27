@@ -4,10 +4,10 @@
 
 int main()
 {
+    error("test");
+
     try
     {
-        // error("test");
-
         vector<int> v;
         for (int x; cin >> x;)
         {
