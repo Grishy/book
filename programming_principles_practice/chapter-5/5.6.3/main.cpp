@@ -6,6 +6,8 @@ int main()
 {
     try
     {
+        // error("test");
+
         vector<int> v;
         for (int x; cin >> x;)
         {
